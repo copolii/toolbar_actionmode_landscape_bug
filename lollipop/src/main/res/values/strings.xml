@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActionModeLandscapeBug</string>
+    <string name="title_main_activity">Actionbar</string>
+    <string name="action_mode">Action Mode</string>
+    <string name="toolbar_page">Toolbar page</string>
+    <string name="menu_item_1">Android</string>
+    <string name="menu_item_2">Bug</string>
+    <string name="menu_item_3">Settings</string>
+    <string name="menu_pressed">pressed \'%1$s\'</string>
+    <string name="title_toolbar_activity">Toolbar</string>
+    <string name="barless_page">No Bars</string>
+</resources>
